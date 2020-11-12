@@ -1,2 +1,2 @@
-# conversion-of-float-to-absolute
+By using this code we can convert the values of sine from floating  to absolute Integers for the given range of the angles...
 
